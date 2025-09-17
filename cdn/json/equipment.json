@@ -11130,6 +11130,36 @@
     "isTwoHanded": false
   },
   {
+    "name": "Antler guard",
+    "id": 31081,
+    "version": "",
+    "slot": "shield",
+    "image": "Antler guard.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 5,
+      "ranged_str": 2,
+      "magic_str": 0,
+      "prayer": 5
+    },
+    "offensive": {
+      "stab": 15,
+      "slash": 15,
+      "crush": 15,
+      "magic": 9,
+      "ranged": 9
+    },
+    "defensive": {
+      "stab": -15,
+      "slash": -15,
+      "crush": -15,
+      "magic": -15,
+      "ranged": -15
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Apprentice wand",
     "id": 6910,
     "version": "",
@@ -11896,6 +11926,36 @@
     "offensive": {
       "stab": 0,
       "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Arkan blade",
+    "id": 30955,
+    "version": "",
+    "slot": "weapon",
+    "image": "Arkan blade.png",
+    "speed": 4,
+    "category": "Slash Sword",
+    "bonuses": {
+      "str": 64,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 1
+    },
+    "offensive": {
+      "stab": 55,
+      "slash": 70,
       "crush": 0,
       "magic": 0,
       "ranged": 0
@@ -13256,6 +13316,246 @@
       "crush": 28,
       "magic": -5,
       "ranged": -4
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads",
+    "id": 31088,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 4,
+      "ranged_str": 2,
+      "magic_str": 10,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (et)",
+    "id": 31093,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (et).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 4,
+      "ranged_str": 2,
+      "magic_str": 20,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (max)",
+    "id": 31097,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (max).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 6,
+      "ranged_str": 3,
+      "magic_str": 20,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (pe)",
+    "id": 31092,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (pe).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 4,
+      "ranged_str": 3,
+      "magic_str": 10,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (pe)(et)",
+    "id": 31096,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (pe)(et).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 4,
+      "ranged_str": 3,
+      "magic_str": 20,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (pr)",
+    "id": 31091,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (pr).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 6,
+      "ranged_str": 2,
+      "magic_str": 10,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (pr)(et)",
+    "id": 31095,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (pr)(et).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 6,
+      "ranged_str": 2,
+      "magic_str": 20,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Avernic treads (pr)(pe)",
+    "id": 31094,
+    "version": "",
+    "slot": "feet",
+    "image": "Avernic treads (pr)(pe).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 6,
+      "ranged_str": 3,
+      "magic_str": 10,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 5,
+      "slash": 5,
+      "crush": 5,
+      "magic": 11,
+      "ranged": 15
+    },
+    "defensive": {
+      "stab": 21,
+      "slash": 25,
+      "crush": 25,
+      "magic": 10,
+      "ranged": 10
     },
     "isTwoHanded": false
   },
@@ -28356,7 +28656,7 @@
     "slot": "weapon",
     "image": "Bronze speedrun trophy.png",
     "speed": 4,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -34768,6 +35068,36 @@
       "ranged": 0
     },
     "isTwoHanded": true
+  },
+  {
+    "name": "Confliction gauntlets",
+    "id": 31106,
+    "version": "",
+    "slot": "hands",
+    "image": "Confliction gauntlets.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 70,
+      "prayer": 2
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 20,
+      "ranged": -4
+    },
+    "defensive": {
+      "stab": 15,
+      "slash": 18,
+      "crush": 7,
+      "magic": 5,
+      "ranged": 5
+    },
+    "isTwoHanded": false
   },
   {
     "name": "Construct. cape",
@@ -46416,7 +46746,7 @@
     "slot": "weapon",
     "image": "Diamond speedrun trophy.png",
     "speed": 5,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -51660,6 +51990,36 @@
     "isTwoHanded": false
   },
   {
+    "name": "Earthbound tecpatl",
+    "id": 30957,
+    "version": "",
+    "slot": "weapon",
+    "image": "Earthbound tecpatl.png",
+    "speed": 4,
+    "category": "Stab Sword",
+    "bonuses": {
+      "str": 64,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 2
+    },
+    "offensive": {
+      "stab": 72,
+      "slash": 11,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": true
+  },
+  {
     "name": "Easter basket",
     "id": 4565,
     "version": "",
@@ -52681,7 +53041,7 @@
   },
   {
     "name": "Echo venator bow",
-    "id": 30434,
+    "id": 30436,
     "version": "Uncharged",
     "slot": "weapon",
     "image": "Echo venator bow (uncharged).png",
@@ -55950,6 +56310,66 @@
     "isTwoHanded": false
   },
   {
+    "name": "Eye of ayak",
+    "id": 31113,
+    "version": "Charged",
+    "slot": "weapon",
+    "image": "Eye of ayak.png",
+    "speed": 3,
+    "category": "Powered Staff",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 2
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 30,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 1,
+      "slash": 5,
+      "crush": 5,
+      "magic": 10,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Eye of ayak",
+    "id": 31115,
+    "version": "Uncharged",
+    "slot": "weapon",
+    "image": "Eye of ayak (uncharged).png",
+    "speed": 3,
+    "category": "Powered Staff",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 2
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 30,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 1,
+      "slash": 5,
+      "crush": 5,
+      "magic": 10,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Facemask",
     "id": 4164,
     "version": "",
@@ -56311,38 +56731,8 @@
   },
   {
     "name": "Farmer's boots",
-    "id": 13645,
-    "version": "Female",
-    "slot": "feet",
-    "image": "Farmer's boots (female).png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 0,
-      "ranged_str": 0,
-      "magic_str": 0,
-      "prayer": 0
-    },
-    "offensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 0
-    },
-    "defensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 0
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Farmer's boots",
     "id": 13644,
-    "version": "Male",
+    "version": "Body type A",
     "slot": "feet",
     "image": "Farmer's boots.png",
     "speed": 0,
@@ -56370,11 +56760,11 @@
     "isTwoHanded": false
   },
   {
-    "name": "Farmer's boro trousers",
-    "id": 13641,
-    "version": "Female",
-    "slot": "legs",
-    "image": "Farmer's boro trousers (female).png",
+    "name": "Farmer's boots",
+    "id": 13645,
+    "version": "Body type B",
+    "slot": "feet",
+    "image": "Farmer's boots (female).png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -56402,9 +56792,39 @@
   {
     "name": "Farmer's boro trousers",
     "id": 13640,
-    "version": "Male",
+    "version": "Body type A",
     "slot": "legs",
     "image": "Farmer's boro trousers.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Farmer's boro trousers",
+    "id": 13641,
+    "version": "Body type B",
+    "slot": "legs",
+    "image": "Farmer's boro trousers (female).png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -56491,10 +56911,10 @@
   },
   {
     "name": "Farmer's strawhat",
-    "id": 13647,
-    "version": "Female",
+    "id": 13646,
+    "version": "Body type A",
     "slot": "head",
-    "image": "Farmer's strawhat (female).png",
+    "image": "Farmer's strawhat.png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -56521,10 +56941,10 @@
   },
   {
     "name": "Farmer's strawhat",
-    "id": 13646,
-    "version": "Male",
+    "id": 13647,
+    "version": "Body type B",
     "slot": "head",
-    "image": "Farmer's strawhat.png",
+    "image": "Farmer's strawhat (female).png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -57965,6 +58385,36 @@
     "version": "",
     "slot": "head",
     "image": "Fletching hood.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Fletching knife",
+    "id": 31043,
+    "version": "",
+    "slot": "shield",
+    "image": "Fletching knife.png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -60996,7 +61446,7 @@
     "slot": "weapon",
     "image": "Giant stopwatch.png",
     "speed": 4,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -62706,7 +63156,7 @@
     "slot": "weapon",
     "image": "Gold speedrun trophy.png",
     "speed": 5,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -65665,7 +66115,7 @@
       "slash": 2,
       "crush": 2,
       "magic": -2,
-      "ranged": 8
+      "ranged": 12
     },
     "isTwoHanded": false
   },
@@ -65695,7 +66145,7 @@
       "slash": 4,
       "crush": 4,
       "magic": -4,
-      "ranged": 16
+      "ranged": 24
     },
     "isTwoHanded": false
   },
@@ -65725,7 +66175,7 @@
       "slash": 4,
       "crush": 4,
       "magic": -4,
-      "ranged": 16
+      "ranged": 24
     },
     "isTwoHanded": false
   },
@@ -65755,7 +66205,7 @@
       "slash": 4,
       "crush": 4,
       "magic": -4,
-      "ranged": 16
+      "ranged": 24
     },
     "isTwoHanded": false
   },
@@ -66960,13 +67410,223 @@
     "isTwoHanded": false
   },
   {
+    "name": "Greenman mask",
+    "id": 31034,
+    "version": "Default",
+    "slot": "head",
+    "image": "Greenman mask.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Greenman mask",
+    "id": 31042,
+    "version": "Magic",
+    "slot": "head",
+    "image": "Greenman mask (magic).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Greenman mask",
+    "id": 31040,
+    "version": "Maple",
+    "slot": "head",
+    "image": "Greenman mask (maple).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Greenman mask",
+    "id": 31037,
+    "version": "Normal",
+    "slot": "head",
+    "image": "Greenman mask (normal).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Greenman mask",
+    "id": 31038,
+    "version": "Oak",
+    "slot": "head",
+    "image": "Greenman mask (oak).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Greenman mask",
+    "id": 31039,
+    "version": "Willow",
+    "slot": "head",
+    "image": "Greenman mask (willow).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Greenman mask",
+    "id": 31041,
+    "version": "Yew",
+    "slot": "head",
+    "image": "Greenman mask (yew).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Gregg's eastdoor",
     "id": 25604,
     "version": "",
     "slot": "weapon",
     "image": "Gregg's eastdoor.png",
     "speed": 7,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -72028,6 +72688,36 @@
       "ranged": 0
     },
     "isTwoHanded": false
+  },
+  {
+    "name": "Humphrey Dumphrey",
+    "id": 30970,
+    "version": "",
+    "slot": "weapon",
+    "image": "Egg (Humphrey Dumphrey).png",
+    "speed": 4,
+    "category": "blunt",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": true
   },
   {
     "name": "Hunter cape",
@@ -79385,6 +80075,66 @@
     "version": "",
     "slot": "weapon",
     "image": "Keris partisan.png",
+    "speed": 4,
+    "category": "Partisan",
+    "bonuses": {
+      "str": 45,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 3
+    },
+    "offensive": {
+      "stab": 58,
+      "slash": -2,
+      "crush": 57,
+      "magic": 2,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Keris partisan of amascut",
+    "id": 30891,
+    "version": "",
+    "slot": "weapon",
+    "image": "Keris partisan of amascut.png",
+    "speed": 4,
+    "category": "Partisan",
+    "bonuses": {
+      "str": 67,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 3
+    },
+    "offensive": {
+      "stab": 108,
+      "slash": -2,
+      "crush": 57,
+      "magic": 2,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Keris partisan of amascut",
+    "id": 30891,
+    "version": "",
+    "slot": "weapon",
+    "image": "Keris partisan of amascut.png",
     "speed": 4,
     "category": "Partisan",
     "bonuses": {
@@ -90420,6 +91170,36 @@
     "isTwoHanded": false
   },
   {
+    "name": "Nifty hat",
+    "id": 31780,
+    "version": "",
+    "slot": "head",
+    "image": "Nifty hat.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Nightmare staff",
     "id": 24422,
     "version": "",
@@ -91138,6 +91918,96 @@
       "ranged": 0
     },
     "isTwoHanded": true
+  },
+  {
+    "name": "Oathplate chest",
+    "id": 30753,
+    "version": "",
+    "slot": "body",
+    "image": "Oathplate chest.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 4,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 16,
+      "crush": 0,
+      "magic": -16,
+      "ranged": -18
+    },
+    "defensive": {
+      "stab": 105,
+      "slash": 128,
+      "crush": 100,
+      "magic": -5,
+      "ranged": 112
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Oathplate helm",
+    "id": 30750,
+    "version": "",
+    "slot": "head",
+    "image": "Oathplate helm.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 6,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 10,
+      "crush": 0,
+      "magic": -2,
+      "ranged": -7
+    },
+    "defensive": {
+      "stab": 50,
+      "slash": 72,
+      "crush": 45,
+      "magic": 0,
+      "ranged": 50
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Oathplate legs",
+    "id": 30756,
+    "version": "",
+    "slot": "legs",
+    "image": "Oathplate legs.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 2,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 12,
+      "crush": 0,
+      "magic": -12,
+      "ranged": -14
+    },
+    "defensive": {
+      "stab": 75,
+      "slash": 100,
+      "crush": 73,
+      "magic": -3,
+      "ranged": 81
+    },
+    "isTwoHanded": false
   },
   {
     "name": "Obsidian cape",
@@ -92165,6 +93035,36 @@
     "version": "",
     "slot": "ring",
     "image": "Opal ring.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Orange (hat)",
+    "id": 31117,
+    "version": "",
+    "slot": "head",
+    "image": "Orange (hat).png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -93371,20 +94271,20 @@
       "str": 0,
       "ranged_str": 0,
       "magic_str": 0,
-      "prayer": 2
+      "prayer": 0
     },
     "offensive": {
       "stab": 0,
       "slash": 0,
       "crush": 0,
-      "magic": 0,
+      "magic": 2,
       "ranged": 0
     },
     "defensive": {
       "stab": 0,
       "slash": 0,
       "crush": 0,
-      "magic": 3,
+      "magic": 0,
       "ranged": 0
     },
     "isTwoHanded": false
@@ -94836,7 +95736,7 @@
     "slot": "weapon",
     "image": "Platinum speedrun trophy.png",
     "speed": 5,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -95029,6 +95929,36 @@
       "crush": 0,
       "magic": 0,
       "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Potato sack",
+    "id": 30947,
+    "version": "",
+    "slot": "head",
+    "image": "Potato sack.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": -1,
+      "slash": -1,
+      "crush": -1,
+      "magic": -1,
+      "ranged": -1
     },
     "defensive": {
       "stab": 0,
@@ -97256,6 +98186,96 @@
       "crush": 0,
       "magic": 0,
       "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant oathplate chest",
+    "id": 30779,
+    "version": "",
+    "slot": "body",
+    "image": "Radiant oathplate chest.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 4,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 16,
+      "crush": 0,
+      "magic": -16,
+      "ranged": -18
+    },
+    "defensive": {
+      "stab": 105,
+      "slash": 128,
+      "crush": 100,
+      "magic": -5,
+      "ranged": 112
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant oathplate helm",
+    "id": 30777,
+    "version": "",
+    "slot": "head",
+    "image": "Radiant oathplate helm.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 6,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 10,
+      "crush": 0,
+      "magic": -2,
+      "ranged": -7
+    },
+    "defensive": {
+      "stab": 50,
+      "slash": 72,
+      "crush": 45,
+      "magic": 0,
+      "ranged": 50
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant oathplate legs",
+    "id": 30781,
+    "version": "",
+    "slot": "legs",
+    "image": "Radiant oathplate legs.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 2,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 12,
+      "crush": 0,
+      "magic": -12,
+      "ranged": -14
+    },
+    "defensive": {
+      "stab": 75,
+      "slash": 100,
+      "crush": 73,
+      "magic": -3,
+      "ranged": 81
     },
     "isTwoHanded": false
   },
@@ -101117,6 +102137,36 @@
       "stab": 0,
       "slash": 0,
       "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Redwood hiking staff",
+    "id": 31049,
+    "version": "",
+    "slot": "weapon",
+    "image": "Redwood hiking staff.png",
+    "speed": 5,
+    "category": "Blunt",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": -4,
+      "slash": -4,
+      "crush": 10,
       "magic": 0,
       "ranged": 0
     },
@@ -114486,7 +115536,7 @@
     "slot": "weapon",
     "image": "Silver speedrun trophy.png",
     "speed": 4,
-    "category": "",
+    "category": "Blunt",
     "bonuses": {
       "str": -10,
       "ranged_str": 0,
@@ -116135,7 +117185,7 @@
     "version": "",
     "slot": "weapon",
     "image": "Slayer's staff (e).png",
-    "speed": 5,
+    "speed": 4,
     "category": "Staff",
     "bonuses": {
       "str": 35,
@@ -117415,6 +118465,36 @@
       "slash": 0,
       "crush": 0,
       "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Soulflame horn",
+    "id": 30759,
+    "version": "",
+    "slot": "weapon",
+    "image": "Soulflame horn.png",
+    "speed": 5,
+    "category": "Spiked",
+    "bonuses": {
+      "str": 23,
+      "ranged_str": 0,
+      "magic_str": 10,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 2,
+      "slash": 0,
+      "crush": 21,
+      "magic": 7,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 7,
+      "crush": 3,
+      "magic": 11,
       "ranged": 0
     },
     "isTwoHanded": false
@@ -122336,6 +123416,36 @@
       "crush": 15,
       "magic": -4,
       "ranged": 16
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Steel ring",
+    "id": 30895,
+    "version": "",
+    "slot": "ring",
+    "image": "Steel ring.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 24,
+      "slash": 24,
+      "crush": 24,
+      "magic": 0,
+      "ranged": 0
     },
     "isTwoHanded": false
   },
@@ -138786,7 +139896,7 @@
     "slot": "weapon",
     "image": "White sword.png",
     "speed": 4,
-    "category": "",
+    "category": "Stab Sword",
     "bonuses": {
       "str": 12,
       "ranged_str": 0,
